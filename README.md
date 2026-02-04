@@ -18,3 +18,13 @@ Goal: quantify and reduce sim→real error for a simple transient experiment by 
 ```bash
 pip install -r requirements.txt
 python run.py
+
+
+## Requirements
+- Python 3.10+
+- numpy, scipy
+- matplotlib
+- pyyaml
+
+Install dependencies:
+pip install -r requirements.txt
